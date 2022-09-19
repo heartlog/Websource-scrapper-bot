@@ -1,0 +1,6 @@
+pyrogram
+TgCrypto
+asyncio
+aiohttp
+requests
+beautifulsoup4
