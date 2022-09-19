@@ -1,7 +1,7 @@
 # web-source-scrapper
 `Wait i will make`
 ## req:
-> bs4 BeautifulSoup
+> Python 
 ## Sorry i completely forgot about this Open-source project 😆
 > requests
 # Heroku install
