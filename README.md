@@ -1,9 +1,11 @@
-# web-source-scrapper
-`Wait i will make`
+# 🌐 web-source-scrapper
+`It's done so you can use it`
 ## req:
 > Python 
-## Sorry i completely forgot about this Open-source project 😆
 > requests
+> bs4
+> pyrogram
+
 # Heroku install
 * Click button and give info.... (Simple way)
 
@@ -11,3 +13,6 @@
 
 * Run using workflow
 Just update the secreate with your BOT_TOKEN
+
+# Made by
+@heartlog
