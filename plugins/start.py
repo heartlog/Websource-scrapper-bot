@@ -12,5 +12,5 @@ async def start(bot, cmd):
                                                                                   url="https://t.me/anim_chatx")], [
                                                                 InlineKeyboardButton("my Channel",
                                                                                      url="https://t.me/baka_no_onii")],
-                                                            [InlineKeyboardButton("Delete this message", callback_data="delmess")]]))
+                                                            [InlineKeyboardButton(".", callback_data="")]]))
 
