@@ -1,5 +1,5 @@
 # 🌐 web-source-scrapper
-`It's done so you can use it`
+`Bot that can scrap html code of website.`
 ## req:
 > Python 
 > requests
